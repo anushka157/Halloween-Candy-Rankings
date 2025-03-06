@@ -1,3 +1,4 @@
+
 # Halloween Candy Rankings - Power BI Dashboard
 ![image](https://github.com/user-attachments/assets/60acf5a8-6819-4e02-ab15-e9c430d30ad9)
 
